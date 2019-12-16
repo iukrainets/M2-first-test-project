@@ -115,4 +115,9 @@ public class FirstTest {
     void futureTest() {
         open("future");
     }
+
+    @Test
+    void secondmethod() {
+
+    }
 }
