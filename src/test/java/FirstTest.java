@@ -110,4 +110,9 @@ public class FirstTest {
         HttpResponse response2 = client.execute(post);
 //        if (response.getStatusLine().getStatusCode() != 200) Assert.fail(); //fail test if customer was not created
     }
+
+    @Test
+    void futureTest() {
+        open("future");
+    }
 }
