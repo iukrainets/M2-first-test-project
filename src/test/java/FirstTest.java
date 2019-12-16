@@ -120,4 +120,8 @@ public class FirstTest {
     void secondmethod() {
 
     }
+
+    @Test
+    void thirdtest() {
+    }
 }
